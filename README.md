@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I’m Teodora Ciubuc  
 
-<!--
-**teodoraciubuc/teodoraciubuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a final-year student at the Bucharest University of Economic Studies, majoring in **Economic Informatics**.  
+💻 I enjoy learning new technologies and experimenting with different approaches to problem-solving.  
+🌱 Recently, I’ve been developing skills in **web development** and **database management**, exploring how these two areas work together to create efficient, data-driven applications.  
+⚙️ I like combining creativity with logic to build clean and functional solutions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+**Languages:** Java, C#, JavaScript, SQL, PL/SQL  
+**Web:** HTML, CSS, Bootstrap, React  
+**Databases:** Oracle, MySQL, Prisma ORM  
+**Tools:** Git, Visual Studio, VS Code, Node.js  
+
+---
+
+✨ *Always learning. Always building.*
